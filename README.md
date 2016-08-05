@@ -1,1 +1,3 @@
 # Data Analytics - The Begining...
+About Data:-
+http://www.amadeus.com/blog/23/07/10-things-i-wish-people-understood-about-data/
